@@ -1,0 +1,54 @@
+:root{
+    --orange: hsl(31, 77%, 52%);
+    --cyan: hsl(184, 100%, 22%);
+    --dar-cyan: hsl(179, 100%, 13%);
+
+    --white: hsla(0, 0%, 100%, 0.75);
+    --gray: hsl(0, 0%, 95%);
+    
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: var(--gray);
+    font-size: 15px;
+}
+main{
+    display:grid;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    max-width: 470px;
+    width: 85%;
+    padding: 2rem 2rem;
+    height: 400px;
+    font-family: 'Lexend Deca';
+}
+.card > h2{
+    text-transform: uppercase;
+    color: var(--gray);
+    font-family: 'Big Shoulders Display';
+    font-weight: 700;
+    font-size: 2.4em;
+}
+
+.card > p{
+    color: var(--white);
+}
+.sedans{
+    background-color: var(--orange);
+    color: var(--white);
+}
+.suvs{
+    background-color: var(--cyan);
+    color: var(--white);
+}
+.luxury{
+    background-color: var(--dar-cyan);
+    color: var(--white);
+}
