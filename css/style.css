@@ -73,3 +73,12 @@ main{
     color: var(--dar-cyan);
     border-radius: 0 0 10px 10px;
 }
+@media screen and (min-width:768px) { 
+    main{
+        
+     
+       
+    }
+   
+   
+}
