@@ -21,6 +21,7 @@ main{
     justify-items: center;
     justify-content: center;
     align-items: center;
+    margin: 3rem 0 3rem 0;
 }
 .card{
     max-width: 470px;
@@ -28,6 +29,7 @@ main{
     padding: 2rem 2rem;
     height: 400px;
     font-family: 'Lexend Deca';
+   
 }
 .card > h2{
     text-transform: uppercase;
@@ -35,14 +37,18 @@ main{
     font-family: 'Big Shoulders Display';
     font-weight: 700;
     font-size: 2.4em;
+    margin-top: 30px;
 }
 
 .card > p{
     color: var(--white);
+    line-height: 1.6em;
+    margin-top: 30px;
 }
 .sedans{
     background-color: var(--orange);
     color: var(--white);
+
 }
 .suvs{
     background-color: var(--cyan);
