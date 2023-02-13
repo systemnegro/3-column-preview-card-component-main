@@ -78,6 +78,10 @@ main{
         grid-template-columns:1fr 1fr ;
     
     }
+    .card{
+        max-width: none;
+        width: 100%;
+    }
    
    
 }
