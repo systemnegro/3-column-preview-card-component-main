@@ -76,7 +76,7 @@ main{
 @media screen and (min-width:768px) { 
     main{
         grid-template-columns:1fr 1fr ;
-    
+        margin:4em 2em;
     }
     .card{
         max-width: none;
