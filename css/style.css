@@ -89,3 +89,17 @@ main{
         border-radius: 0 0 10px 10px;
     }  
 }
+@media screen and (min-width:992px) {
+    main{
+        display: flex;
+    }
+    .sedans{
+        border-radius: 10px 0 0 10px;
+    }
+    .suvs{
+        border-radius: 0;
+    }
+    .luxury{
+        border-radius:0 10px 10px 0;
+    }
+}
