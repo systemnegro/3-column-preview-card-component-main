@@ -90,9 +90,16 @@ main{
     }  
 }
 @media screen and (min-width:992px) {
+    body{
+       
+    }
     main{
         display: flex;
+        height: 100vh;
+        
+ 
     }
+   
     .sedans{
         border-radius: 10px 0 0 10px;
     }
