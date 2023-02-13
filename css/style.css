@@ -82,6 +82,12 @@ main{
         max-width: none;
         width: 100%;
     }
+    .sedans{
+        border-radius: 10px 0 0 0;
+    }
+    .suvs{
+        border-radius: 0 10px 10px 0;
+    }
    
    
 }
