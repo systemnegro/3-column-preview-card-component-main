@@ -72,11 +72,10 @@ main{
     border-radius: 0 0 10px 10px;
 }
 .attribution{
-    text-align: center;
+    text-align:center; 
     position: relative;
     bottom: 0;
-    left: 0;
-    width: 100%;  
+    width: 100%; 
 }
 @media screen and (min-width:768px) { 
     main{
