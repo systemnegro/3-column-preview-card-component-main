@@ -25,6 +25,7 @@ main{
 }
 .card{
     max-width: 470px;
+    
     height: 440px;
     width: 87%;
     padding: 2.8rem 2.8rem;
@@ -99,6 +100,10 @@ main{
         align-items: center;
         
  
+    }
+    .card{
+        max-width: 470px;
+
     }
    
     .sedans{
