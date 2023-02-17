@@ -4,8 +4,7 @@
     --dar-cyan: hsl(179, 100%, 13%);
 
     --white: hsla(0, 0%, 100%, 0.75);
-    --gray: hsl(0, 0%, 95%);
-    
+    --gray: hsl(0, 0%, 95%);  
 }
 *{
     box-sizing: border-box;
@@ -103,10 +102,8 @@ main{
   
     .card{
         max-width: 298px;
-       
     }
     .card > p{
-
         margin-bottom:50px;
     }
    
