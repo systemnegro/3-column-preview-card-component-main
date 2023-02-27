@@ -44,6 +44,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@systemnegro](https://www.frontendmentor.io/systemnegro/yourusername)
+- Frontend Mentor - [@systemnegro](https://www.frontendmentor.io/systemnegro)
 - Twitter - [@systemnegro](https://www.twitter.com/systemnegro)
 
